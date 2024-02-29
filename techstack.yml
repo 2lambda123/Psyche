@@ -2,7 +2,7 @@ repo_name: 2lambda123/Psyche
 report_id: 6d1d9523a02fc3f22b939e8702f10949
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:48+00:00'
+timestamp: '2024-02-29T19:14:47+00:00'
 requested_by: Jennifer-K
 provider: github
 branch: master
@@ -42,7 +42,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/Psyche
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
